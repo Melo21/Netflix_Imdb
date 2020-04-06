@@ -25,12 +25,8 @@ Python notebook, Dataset from Kaggle.com
 
 ![Yearly Content Release](https://github.com/Melo21/Netflix_Imdb/blob/master/Yearly%20content%20release.png)
 
-![Most Popular Genres](https://github.com/Melo21/Netflix_Imdb/blob/master/Most%20Popular%20Genres.png)
+![Most Popular Genres](https://github.com/Melo21/Netflix_Imdb/blob/master/Most_Popular_Genres.png)
 
-![Top Actors by Movies](https://github.com/Melo21/Netflix_Imdb/blob/master/TOP%20ACTORS%20IN%20MOVIES.png)
+![Top Ratings by Country](https://github.com/Melo21/Netflix_Imdb/blob/master/TV%20Show%20Ratings%20by%20Country.png)
 
-![Top Actors by TV Shows](https://github.com/Melo21/Netflix_Imdb/blob/master/TOP%20ACTORS%20IN%20TV%20SHOWS.png)
-
-![Top Ratings by Country](https://github.com/Melo21/Netflix_Imdb/blob/master/TV_Ratings_by_Country.png)
-
-![IMBD Ratings of Netflix Movies](https://github.com/Melo21/Netflix_Imdb/blob/master/IMDB%20ratings%20of%20Netflix%20Additions.png)
+![IMBD Ratings of Netflix Movies](https://github.com/Melo21/Netflix_Imdb/blob/master/relationship.png)
